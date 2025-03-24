@@ -1,0 +1,18 @@
+{
+  "name": "Tap Tap Mask",
+  "short_name": "Tap Tap Mask",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "b4dd6062406a33b923cbe757a7a84b5c55d03a41ea2ca516d721afaf23c56b3d-png.png",
+        "sizes": "192x192"
+      },{
+        "src": "67d2c4d50eed3940480890340679a2fb4b90815987a68cc3eaf29b78133c8ae2-Title Art_TapTapMask.png",
+        "sizes": "512x512"
+      }]
+}
